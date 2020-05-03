@@ -1,7 +1,7 @@
 # PS2stats
 Show planetside2 players info! This works with every pc server including ps4 servers.
 
-This is a module for the message-handler (https://github.com/l0b5ter/Message-Handler).
+This is a command for the message-handler (https://github.com/l0b5ter/Message-Handler).
 
 Script-version: 1.0.0.4                     
 Last-modified: 03.05.2020                     
