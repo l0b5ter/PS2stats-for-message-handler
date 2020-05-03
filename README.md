@@ -8,6 +8,11 @@ Last-modified: 03.05.2020
 Made by: lobster/loster31345 from WiAD  
 
 Pics from this module:
+
+
+
+
+
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statspc.PNG)
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statseu.PNG)
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statsus.PNG)
