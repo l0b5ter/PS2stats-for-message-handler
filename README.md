@@ -16,4 +16,4 @@ Pics from this module:
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statspc.PNG)
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statseu.PNG)
 ![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statsus.PNG)
-![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statson.PNG)
+![hide](https://github.com/l0b5ter/PS2stats-for-Message-Handler/blob/master/ps2stats%20images/ps2statso.PNG)
